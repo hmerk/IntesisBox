@@ -1,6 +1,6 @@
 # Intesis Binding
 
-This binding connects to WiFi [IntesisHome](http://www.intesishome.com/) devices using their local REST Api and to [IntesisBox](http://www.intesisbox.com/) devices using TCP connection.
+This binding connects to WiFi [IntesisHome](http://www.intesishome.com/) devices using their local REST Api and to [IntesisBox](https://www.intesis.com/products/ac-interfaces/wifi-gateways) devices using TCP connection.
 
 
 ## Supported Things
